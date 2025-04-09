@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"108452031c6728ea","x":-140,"y":-240,"width":160,"height":60,"color":"1","type":"text","text":"<center>Registers</center>"},
+		{"id":"7f4897c9b0caea45","x":-185,"y":-160,"width":250,"height":60,"color":"2","type":"text","text":"<center>Cache</center>"},
+		{"id":"f7e4351b1152f2da","x":-222,"y":-80,"width":325,"height":60,"color":"5","type":"text","text":"<center>Main Memory</center>"},
+		{"id":"0a69b133284c6ae3","x":-280,"y":0,"width":440,"height":60,"color":"#1713dd","type":"text","text":"<center>Electronic Disk</center>"},
+		{"id":"0947f456423373c7","x":-340,"y":80,"width":560,"height":60,"color":"6","type":"text","text":"<center>Magnetic Disk</center>"},
+		{"id":"706a07c62e0d07f4","x":-380,"y":160,"width":640,"height":60,"color":"4","type":"text","text":"<center>Optical Disk</center>"},
+		{"id":"a392231ba5f894fe","x":-420,"y":240,"width":720,"height":60,"type":"text","text":"<center>Magnetic Tapes</center>"}
+	],
+	"edges":[
+		{"id":"bbf554b1b5a99d05","fromNode":"108452031c6728ea","fromSide":"bottom","toNode":"7f4897c9b0caea45","toSide":"top"},
+		{"id":"76d67979ba48abf7","fromNode":"7f4897c9b0caea45","fromSide":"bottom","toNode":"f7e4351b1152f2da","toSide":"top"},
+		{"id":"76d7553880b3c798","fromNode":"f7e4351b1152f2da","fromSide":"bottom","toNode":"0a69b133284c6ae3","toSide":"top"},
+		{"id":"8f2a567832f3c6b1","fromNode":"0a69b133284c6ae3","fromSide":"bottom","toNode":"0947f456423373c7","toSide":"top"},
+		{"id":"fe7cf40bee9d3660","fromNode":"0947f456423373c7","fromSide":"bottom","toNode":"706a07c62e0d07f4","toSide":"top"},
+		{"id":"48ede97ccff06a26","fromNode":"706a07c62e0d07f4","fromSide":"bottom","toNode":"a392231ba5f894fe","toSide":"top"}
+	]
+}

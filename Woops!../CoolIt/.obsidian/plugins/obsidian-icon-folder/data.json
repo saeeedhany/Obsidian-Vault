@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "❔",
+      "LiApple",
+      "LiComputer",
+      "LiCherry",
+      "LiStackHorizontal"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "productivity": "LiClipboard",
+  "Programming": "LiFolderCode",
+  "Programming/Concepts": "LiCuboid",
+  "Programming/Data structure": "LiStackHorizontal",
+  "Programming/Real Projects": "LiCherry",
+  "Programming/CS": "LiComputer",
+  "Programming/CS/Programming Languages/CLang": "LiCode",
+  "Segmentation Faults": "LiApple",
+  "Understanding things": "❔"
+}

@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "60b8102ea67ce0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "172e894120ff4b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e3784bb486c7756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Understanding things/Linux/Linux As User/GUI's/Notes/GUI Component/compositor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "compositor"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "599504853448627f",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0b9352614a5102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6bf3e7a5d76581d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d219905b2ab02dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a7d42b323e18e24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa27a0b8e092bb04",
+    "type": "split",
+    "children": [
+      {
+        "id": "16554fd21f17a7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8b4c0107d66d7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLang/notes/functions/Recursion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Recursion"
+            }
+          },
+          {
+            "id": "41751edd166047f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLang/notes/functions/Recursion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Recursion"
+            }
+          },
+          {
+            "id": "9ec5f39f8045b0ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e68a7b9acef3109",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLang/notes/functions/Recursion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Recursion"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b6bf3e7a5d76581d",
+  "lastOpenFiles": [
+    "Understanding things/Linux/Linux As User/GUI's/Notes/GUI Component",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/Untitled.md",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/GUI Component/compositor.md",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/GUI Component/Wayland (Protocol).md",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/API Programms/Vulkan.md",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/API Programms",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/GUI Component/XServer (Protocol).md",
+    "Understanding things/Linux/Linux As User/GUI's/Notes",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/API Programms/Directx11.md",
+    "Understanding things/Linux/Linux As User/GUI's/XServer.md",
+    "Understanding things/Linux/Linux As User/GUI's/images/img4.png",
+    "Understanding things/Linux/Linux As User/GUI's/images/https:%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fi3trco1aa9hv3cg53ehg.png",
+    "Understanding things/Linux/Linux As User/GUI's/images/img3.png",
+    "Understanding things/Linux/Linux As User/GUI's/images/https:%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F7ejh54l4srsx6pxdmrlq.png",
+    "Understanding things/Linux/Linux As User/GUI's/images/img2.png",
+    "Understanding things/Linux/Linux As User/GUI's/images/https:%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F64y2sjq4fq10id6cwu6n.png",
+    "Understanding things/Linux/Linux As User/GUI's/images/img1.png",
+    "Understanding things/Linux/Linux As User/GUI's/images/https:%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F2t30r5vqbamlg0zp1ltd.png",
+    "Understanding things/Linux/Linux As User/GUI's/images",
+    "Understanding things/Linux/Linux As User/GUI's/Notes/GUI Component/Frame Buffer.md",
+    "Programming/CS/Programming Languages/CLang/notes/fundamentals/pointers/Pointers.md",
+    "Understanding things/Linux/Linux As User/GUI's",
+    "Segmentation Faults/C Language/Undefined Behavior.md",
+    "Programming/CS/Programming Languages/CLang/notes/fundamentals/Array 1D.md",
+    "Programming/CS/Programming Languages/CLang/notes/fundamentals/pointers/Pointer Arithmetic.md",
+    "Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/(I-O) Structure.md",
+    "Programming/CS/Programming Languages/CLang/notes/fundamentals/pointers",
+    "Understanding things/Untitled.md",
+    "Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Working of an (I-O) Operation.canvas",
+    "nnn/title.md",
+    "nnn",
+    "Untitled/title.md",
+    "Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Introduction to Operating System.md",
+    "Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Interrupt Service Routine (ISR).md",
+    "Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Computer System Operations.md",
+    "Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Storage Structure.md",
+    "Understanding things/Linux/Linux As User",
+    "Understanding things/Linux/Linux As a Developer",
+    "Understanding things/Linux",
+    "Understanding things",
+    "Segmentation Faults/OS Engineering/SegFaults of I-O structure lesson.md",
+    "Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Memory Hierarchy.canvas",
+    "Programming/CS/OS Engineering/notes/OS Component/Random Access memory (RAM).md",
+    "Programming/CS/Programming Languages/CLang/notes/archtecture/Memory hierarchy.md",
+    "Programming/CS/Programming Languages/CLang/notes/archtecture/Memory Layout Of C Program.md",
+    "Programming/CS/Programming Languages/CLang/images/FireShot Capture 056 - (8) Initializing an Array - YouTube - www.youtube.com.png",
+    "ROM.md",
+    "Programming/CS/OS Engineering/images/OSoperations.png",
+    "Programming/Concepts/5 simple steps for solving any recursive problem.canvas",
+    "nothing.canvas",
+    "Untitled 1.canvas"
+  ]
+}

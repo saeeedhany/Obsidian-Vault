@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"70fab2e6ce0438da","type":"text","text":"<center>Instruction</center>\n<center>and</center>\n<center>Data</center>\n\n\n<font color=\"orange\">Memory</font>","x":0,"y":-240,"width":250,"height":420},
+		{"id":"0440553079789a81","type":"text","text":"Thread of execution\n\n\n\n<font color=\"Orange\">CPU</font>","x":-400,"y":-240,"width":200,"height":180},
+		{"id":"b70502bed119db97","type":"text","text":"**Device**","x":-370,"y":80,"width":140,"height":100},
+		{"id":"837120b2f7c20722","type":"text","text":"\nC\nA\nC\nH\nE","x":-250,"y":-240,"width":50,"height":180}
+	],
+	"edges":[
+		{"id":"fe424e3e79ab3c4c","fromNode":"837120b2f7c20722","fromSide":"top","toNode":"70fab2e6ce0438da","toSide":"top","label":"instruction execution cycle"},
+		{"id":"7fdcfa20ef3bfe26","fromNode":"837120b2f7c20722","fromSide":"right","toNode":"70fab2e6ce0438da","toSide":"left","label":"data movement"},
+		{"id":"f8099267609ebf8e","fromNode":"b70502bed119db97","fromSide":"top","toNode":"0440553079789a81","toSide":"bottom","label":"data"},
+		{"id":"2a7a891f2fc8eb09","fromNode":"b70502bed119db97","fromSide":"left","toNode":"0440553079789a81","toSide":"left","label":"(I/O) request"},
+		{"id":"74ee54b786decfa5","fromNode":"b70502bed119db97","fromSide":"bottom","toNode":"0440553079789a81","toSide":"right","label":"interrupt"},
+		{"id":"e3dd38562e1bc2a3","fromNode":"70fab2e6ce0438da","fromSide":"bottom","toNode":"b70502bed119db97","toSide":"right","label":"DMA"},
+		{"id":"3193ec0c07f27951","fromNode":"70fab2e6ce0438da","fromSide":"top","toNode":"837120b2f7c20722","toSide":"top"},
+		{"id":"b6fdbb7c2e04cf6c","fromNode":"70fab2e6ce0438da","fromSide":"left","toNode":"0440553079789a81","toSide":"right"},
+		{"id":"0439045d9a1263fb","fromNode":"0440553079789a81","fromSide":"right","toNode":"70fab2e6ce0438da","toSide":"left"},
+		{"id":"61e0f9b064e60108","fromNode":"0440553079789a81","fromSide":"left","toNode":"b70502bed119db97","toSide":"left"}
+	]
+}

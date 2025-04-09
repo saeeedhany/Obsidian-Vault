@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a143e95778bf78c3","type":"text","text":"Write a recursive function that given an input *n* sums all nonnegative integers up to *n*.","x":-620,"y":-660,"width":720,"height":50},
+		{"id":"839de0fc4bb8001c","x":-720,"y":-440,"width":353,"height":51,"type":"text","text":"What is the simplest possible input?"},
+		{"id":"989d95dbd882688c","x":-694,"y":-320,"width":302,"height":95,"type":"text","text":"```\nsum(0) ---> 0 //Base case\n```"},
+		{"id":"f50a0e776c919c20","x":100,"y":-468,"width":386,"height":54,"type":"text","text":"Play around with examples and visualize!"}
+	],
+	"edges":[
+		{"id":"1563d59d51539a6b","fromNode":"a143e95778bf78c3","fromSide":"bottom","toNode":"839de0fc4bb8001c","toSide":"top"},
+		{"id":"fa334c881fe26dcf","fromNode":"a143e95778bf78c3","fromSide":"bottom","toNode":"f50a0e776c919c20","toSide":"top"},
+		{"id":"f37c6d82b64e81eb","fromNode":"839de0fc4bb8001c","fromSide":"bottom","toNode":"989d95dbd882688c","toSide":"top"}
+	]
+}
