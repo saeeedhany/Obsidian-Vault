@@ -1,0 +1,126 @@
+{
+  "edges": [
+    {
+      "fromNode": "837120b2f7c20722",
+      "fromSide": "top",
+      "id": "fe424e3e79ab3c4c",
+      "label": "instruction execution cycle",
+      "toNode": "70fab2e6ce0438da",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "837120b2f7c20722",
+      "fromSide": "right",
+      "id": "7fdcfa20ef3bfe26",
+      "label": "data movement",
+      "toNode": "70fab2e6ce0438da",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b70502bed119db97",
+      "fromSide": "top",
+      "id": "f8099267609ebf8e",
+      "label": "data",
+      "toNode": "0440553079789a81",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "b70502bed119db97",
+      "fromSide": "left",
+      "id": "2a7a891f2fc8eb09",
+      "label": "(I/O) request",
+      "toNode": "0440553079789a81",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b70502bed119db97",
+      "fromSide": "bottom",
+      "id": "74ee54b786decfa5",
+      "label": "interrupt",
+      "toNode": "0440553079789a81",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "70fab2e6ce0438da",
+      "fromSide": "bottom",
+      "id": "e3dd38562e1bc2a3",
+      "label": "DMA",
+      "toNode": "b70502bed119db97",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "70fab2e6ce0438da",
+      "fromSide": "top",
+      "id": "3193ec0c07f27951",
+      "toNode": "837120b2f7c20722",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "70fab2e6ce0438da",
+      "fromSide": "left",
+      "id": "b6fdbb7c2e04cf6c",
+      "toNode": "0440553079789a81",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0440553079789a81",
+      "fromSide": "right",
+      "id": "0439045d9a1263fb",
+      "toNode": "70fab2e6ce0438da",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0440553079789a81",
+      "fromSide": "left",
+      "id": "61e0f9b064e60108",
+      "toNode": "b70502bed119db97",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 420,
+      "id": "70fab2e6ce0438da",
+      "styleAttributes": {
+      },
+      "text": "<center>Instruction</center>\n<center>and</center>\n<center>Data</center>\n\n\n<font color=\"orange\">Memory</font>",
+      "type": "text",
+      "width": 250,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 180,
+      "id": "0440553079789a81",
+      "styleAttributes": {
+      },
+      "text": "Thread of execution\n\n\n\n<font color=\"Orange\">CPU</font>",
+      "type": "text",
+      "width": 200,
+      "x": -400,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "b70502bed119db97",
+      "styleAttributes": {
+      },
+      "text": "**Device**",
+      "type": "text",
+      "width": 140,
+      "x": -370,
+      "y": 80
+    },
+    {
+      "height": 180,
+      "id": "837120b2f7c20722",
+      "styleAttributes": {
+      },
+      "text": "\nC\nA\nC\nH\nE",
+      "type": "text",
+      "width": 50,
+      "x": -250,
+      "y": -240
+    }
+  ]
+}

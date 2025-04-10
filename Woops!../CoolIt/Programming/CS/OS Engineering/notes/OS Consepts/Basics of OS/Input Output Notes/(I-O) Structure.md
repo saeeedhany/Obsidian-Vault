@@ -26,3 +26,6 @@
 -> while the device controller is performing these operations, the **CPU** is available to accomplish other work
 
 
+
+
+

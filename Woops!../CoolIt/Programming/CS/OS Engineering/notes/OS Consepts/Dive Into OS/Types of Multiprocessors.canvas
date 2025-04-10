@@ -1,0 +1,256 @@
+{
+  "edges": [
+    {
+      "fromNode": "294e184197e0bbb1",
+      "fromSide": "bottom",
+      "id": "917c791da44fcd2f",
+      "toNode": "eaddbbfcf697ebee",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "eaddbbfcf697ebee",
+      "fromSide": "top",
+      "id": "b1f66407e114a3a2",
+      "toNode": "294e184197e0bbb1",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "294e184197e0bbb1",
+      "fromSide": "right",
+      "id": "6ffd1e66324ddcf6",
+      "toNode": "4745adcfd940d606",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c9e73f8d66d69799",
+      "fromSide": "bottom",
+      "id": "e47ef00791ab009a",
+      "toNode": "294e184197e0bbb1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "294e184197e0bbb1",
+      "fromSide": "top",
+      "id": "32b771311bb2543c",
+      "toNode": "c9e73f8d66d69799",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "c9e73f8d66d69799",
+      "fromSide": "right",
+      "id": "596ad1a0ce60b39a",
+      "toNode": "eaddbbfcf697ebee",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6142e3996ad9ecff",
+      "fromSide": "bottom",
+      "id": "45734ab0b962af1d",
+      "toNode": "7be8e027c7673e64",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6142e3996ad9ecff",
+      "fromSide": "bottom",
+      "id": "ffc12db9b915efd7",
+      "toNode": "c4d90697d468e888",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6142e3996ad9ecff",
+      "fromSide": "bottom",
+      "id": "8a40ff919a174576",
+      "toNode": "099f67a4e854c14e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c4d90697d468e888",
+      "fromSide": "bottom",
+      "id": "c3577f9d65f586ae",
+      "toNode": "f6dad4762d7d26d2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7be8e027c7673e64",
+      "fromSide": "bottom",
+      "id": "24a5eeb61df7630d",
+      "toNode": "a1b9a536245fb906",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "099f67a4e854c14e",
+      "fromSide": "bottom",
+      "id": "be85e93c4fe2da8d",
+      "toNode": "18a566a141ed8ed2",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 60,
+      "id": "c9e73f8d66d69799",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CPU 1",
+      "type": "text",
+      "width": 120,
+      "x": -340,
+      "y": -220
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "294e184197e0bbb1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CPU 2",
+      "type": "text",
+      "width": 120,
+      "x": -340,
+      "y": -120
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "eaddbbfcf697ebee",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CPU 3",
+      "type": "text",
+      "width": 120,
+      "x": -340,
+      "y": -20
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "ef757a7894cf0ab2",
+      "styleAttributes": {
+      },
+      "text": "<center>Symmetric Multiprocessing</center>",
+      "type": "text",
+      "width": 324,
+      "x": -344,
+      "y": -315
+    },
+    {
+      "color": "1",
+      "height": 260,
+      "id": "4745adcfd940d606",
+      "styleAttributes": {
+      },
+      "text": "P1\n\np2\n\np3\n\np4\n",
+      "type": "text",
+      "width": 100,
+      "x": -120,
+      "y": -220
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "df9a7948fa4b7e9a",
+      "styleAttributes": {
+      },
+      "text": "<center>Asymmetric Multiprocessing</center>",
+      "type": "text",
+      "width": 520,
+      "x": 120,
+      "y": -315
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "6142e3996ad9ecff",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Master",
+      "type": "text",
+      "width": 120,
+      "x": 320,
+      "y": -220
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "7be8e027c7673e64",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Slave 2",
+      "type": "text",
+      "width": 120,
+      "x": 320,
+      "y": -80
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "c4d90697d468e888",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Slave 3",
+      "type": "text",
+      "width": 120,
+      "x": 510,
+      "y": -80
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "099f67a4e854c14e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Slave 1",
+      "type": "text",
+      "width": 120,
+      "x": 130,
+      "y": -80
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "f6dad4762d7d26d2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "P3",
+      "type": "text",
+      "width": 100,
+      "x": 520,
+      "y": 40
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "a1b9a536245fb906",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "P2",
+      "type": "text",
+      "width": 100,
+      "x": 330,
+      "y": 40
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "18a566a141ed8ed2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "P1",
+      "type": "text",
+      "width": 100,
+      "x": 140,
+      "y": 40
+    }
+  ]
+}
