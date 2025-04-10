@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "5e63ee1181b1b8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c45242b8b509ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77f2ff2e104c452a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS/Operating System Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operating System Services"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57cbc7d18bcc9cc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "643c1bc02d513b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c50a3649354c950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33280aa5421a5799",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d82df4ae2b2a86d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409.5
+  },
+  "right": {
+    "id": "eb1e9e3ec3ee5519",
+    "type": "split",
+    "children": [
+      {
+        "id": "0466ec7a759fbb63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5c8f5d354615b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/(I-O) Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for (I-O) Structure"
+            }
+          },
+          {
+            "id": "dead2b1aa829075e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7150c5fc1aa0f148",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4e4e9b5ec65a1711",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS/Types of Multiprocessors.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Types of Multiprocessors"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "77f2ff2e104c452a",
+  "lastOpenFiles": [
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS/IO_Visualization.canvas",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS/Operating System Services.md",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Input Output Notes/Interrupt Service Routine (ISR).md",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Input Output Notes/IO_Operation.md",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS/Operating System Structure.md",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Input Output Notes/Input Output Structure From A To Z.md",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Input Output Notes/Working of an (I-O) Operation.canvas",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Input Output Notes",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS/Types of Multiprocessors.canvas",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS/Computer system Architecture.md",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Dive Into OS",
+    "Woops!../CoolIt/Programming/CS/OS Engineering/notes/OS Consepts/Basics of OS/Input Output Notes/(I-O) Structure.md",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/Reddit dive/About Gnome's WM.md",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/Reddit dive/About Tiling Window Managers.md",
+    "README.md",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/Reddit dive",
+    "Woops!../CoolIt/Programming/CS/Programming Languages/CLang/notes/fundamentals/Multidimensional Arrays.md",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/GUI/WM",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/GUI",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/GUI/GUI Component/Wayland (Protocol).md",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/API Programms/Directx11.md",
+    "Woops!../CoolIt/Understanding things/Linux/Linux As User/Fundamentals/Notes/API Programms/Vulkan.md"
+  ]
+}
